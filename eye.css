@@ -1,0 +1,16 @@
+#eye {
+    position: absolute;
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    width: 6vmin;
+    height: 6vmin;
+    background: blue;
+}
+#pupil {
+    position: absolute;
+    border-radius: 50%;
+    width: 3vmin;
+    height: 3vmin;
+    background: white;
+}
